@@ -1,0 +1,5 @@
+x=input("podaj liczbe ")
+y=input("podaj liczbe ")
+x=int(x)
+y=int(y)
+print(x+y)
